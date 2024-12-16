@@ -1,4 +1,3 @@
-import Image from "next/image";
 import CardDamo from "./cardejaz";
 
 export default function Home() {
